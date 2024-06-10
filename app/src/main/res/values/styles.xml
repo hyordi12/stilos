@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextStyleRojo" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorRojo</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="TextStyleAzul" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorAzul</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="TextStyleMorado" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorMorado</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="TextStyleVerde" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorVerde</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+
+</resources>

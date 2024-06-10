@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiAplicación</string>
+    <string name="texto_principal">Aplicaciones Móviles</string>
+    <string-array name="styles_array">
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Morado</item>
+        <item>Verde</item>
+    </string-array>
+</resources>
